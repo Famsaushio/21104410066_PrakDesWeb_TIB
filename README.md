@@ -21,9 +21,9 @@ Jika membuka dengan codepen : Sebagian gambar tidak akan muncul karena tersimpan
 
 🔗 Live Preview Tugas
 
-Pertemuan 1 : ()
+Pertemuan 1 : (https://codepen.io/collection/zxprwj)
 
-Pertemuan 2&3 : ()
+Pertemuan 2&3 : (https://codepen.io/collection/ExozmR)
 
 Pertemuan 4 :(https://codepen.io/collection/eJyxWV)
 
