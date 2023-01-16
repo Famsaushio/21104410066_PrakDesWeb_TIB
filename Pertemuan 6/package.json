@@ -1,0 +1,14 @@
+{
+  "name": "tugas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-tailwind": "tailwindcss -i ./src/style.css -o ./dist/style-tailwind.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
